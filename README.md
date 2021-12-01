@@ -14,7 +14,7 @@ Hey I'm dheb. The username dheb was taken so i will appear as dh3b. Anyways, I l
 - Powershell knowledge
 - HTML
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dh3b)](https://github.com/<username>/<repository_name>)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dh3b)](https://github.com/dh3b/MrSSH)
 
 ### My repositories 📚
 I'm currently working on MrSSH, but soon i will be releasing Windows Agent script. It will be more stable and easier to use!
