@@ -4,6 +4,7 @@ Hey I'm dheb. The username dheb was taken so i will appear as dh3b. Anyways, I l
 ![Github Profile](https://github-readme-stats.vercel.app/api?username=dh3b&show_icons=true&theme=radical)
 
 > You can also visit my support server
+> 
 > <a href="https://discord.gg/QYxttzVd7N" rel="Discord Server">![Server](https://img.shields.io/discord/907726035099996160.svg?label=Discord&amp;colorB=7289DA)</a>
 
 ### Languages 🎯
