@@ -1,5 +1,5 @@
 ### About 🚀
-Hey I'm dheb. The username dheb was taken so i will appear as dh3b. Anyways, I live in Poland, I'm interested in creating stealer content, MrSSH for example. Feel free to add me on discord **dheb#4802**!
+Hey I'm dheb. The username dheb was taken so i will appear as dh3b. Anyways, I live in Poland, I'm interested in creating stealer content, MrSSH for example. Feel free to add me on discord **dheb#1285**!
 
 ![Github Profile](https://github-readme-stats.vercel.app/api?username=dh3b&show_icons=true&theme=radical)
 
